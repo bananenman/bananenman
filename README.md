@@ -1,1 +1,12 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=bananenman09&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+---
+
+### :fire: My Stats :
+  [![GitHub Streak](https://github-readme-streak-stats-sigma-one.vercel.app?user=bananenman09&theme=shades-of-purple)](https://git.io/streak-stats)
