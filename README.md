@@ -6,6 +6,7 @@
 ---
 ### 🌎 Site status : 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/29c87104-c012-440f-97de-aa17f009928a/deploy-status)](https://app.netlify.com/sites/bananenman/deploys)
+
 ---
 ### 💼 Tools & Languages
 
