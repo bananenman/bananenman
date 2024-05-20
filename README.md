@@ -3,7 +3,9 @@
 ### :fire: My Stats :
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-one.vercel.app?user=bananenman&theme=highcontrast" alt="GitHub Streak" /></a>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananenman)](https://github.com/anuraghazra/github-readme-stats)
-  
+---
+### 🌎 Site status : 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29c87104-c012-440f-97de-aa17f009928a/deploy-status)](https://app.netlify.com/sites/bananenman/deploys)
 ---
 ### 💼 Tools & Languages
 
